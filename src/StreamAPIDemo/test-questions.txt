@@ -1,0 +1,15 @@
+Filter Examples
+
+1. Print even numbers			
+2. Count how many numbers are > 3 
+3. Print months starting with 'J' :  
+4. Print months whose name length > 
+5. Count months ending with 'y' :
+
+Reduce Examples
+
+1. Find the sum of all numbers 
+2. find Max Number 
+3. Sum of Squares 
+4. Concatenate all months 
+5. Concatenate with spaces
