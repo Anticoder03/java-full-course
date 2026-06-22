@@ -3,7 +3,7 @@ Filter Examples
 1. Print even numbers			
 2. Count how many numbers are > 3 
 3. Print months starting with 'J' :  
-4. Print months whose name length > 
+4. Print months whose name length > 5
 5. Count months ending with 'y' :
 
 Reduce Examples
