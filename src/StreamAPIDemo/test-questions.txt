@@ -13,3 +13,7 @@ Reduce Examples
 3. Sum of Squares 
 4. Concatenate all months 
 5. Concatenate with spaces
+
+
+
+
