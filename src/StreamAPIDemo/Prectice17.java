@@ -20,7 +20,8 @@ public class Prectice17 {
 		
 		months.stream()
 		.filter(mon->mon.contains("e"))
-		.forEach(System.out::println);;
+		.forEach(System.out::println);
+		
 		
 		
 	}
