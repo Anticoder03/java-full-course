@@ -6,7 +6,7 @@ import java.sql.Statement;
 public class DeleteDemo {
 	public static void main(String[] args) throws Exception
 	{
-		Connection connection=ConnectionClass.getConnection();
+		Connection connection=MysqlConnection.getConnection();
 		
 		Statement st=connection.createStatement();
 		

@@ -2,7 +2,7 @@ package MySQLConnection;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-public class ConnectionClass {
+public class MysqlConnection {
 	
 	static Connection connection = null;
 	static final String databasURL="jdbc:mysql://localhost:3306/";

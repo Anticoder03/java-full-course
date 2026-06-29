@@ -4,11 +4,11 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.util.Scanner;
 
-import MySQLConnection.ConnectionClass;
+import MySQLConnection.MysqlConnection;
 
 public class PreparedStatementMySQL {
 	public static void main(String[] args) throws Exception{
-		Connection con = ConnectionClass.getConnection();
+		Connection con = MysqlConnection.getConnection();
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Employee Number: ");
